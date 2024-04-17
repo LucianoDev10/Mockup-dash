@@ -1,0 +1,19 @@
+{
+  "categoria_mais_vendida": [
+    {
+      "mes": "Janeiro",
+      "valor": "R$ 12.200",
+      "categoria": "Sorvetes"
+    },
+    {
+      "mes": "Fevereiro",
+      "valor": "R$ 10.200",
+      "categoria": "Carnes"
+    },
+    {
+      "mes": "Março",
+      "valor": "R$ 3.200",
+      "categoria": "Bebidas"
+    }
+  ]
+}
