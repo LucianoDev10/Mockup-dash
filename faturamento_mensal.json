@@ -1,0 +1,19 @@
+{
+  "faturamento_mensal_bruto": [
+    {
+      "mes": "Janeiro",
+      "ano": 2024,
+      "valor_faturamento": "R$ 150000"
+    },
+    {
+      "mes": "Fevereiro",
+      "ano": 2024,
+      "valor_faturamento": "R$ 165000"
+    },
+    {
+      "mes": "Março",
+      "ano": 2024,
+      "valor_faturamento": "R$ 180000"
+    }
+  ]
+}
