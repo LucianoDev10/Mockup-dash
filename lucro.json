@@ -1,0 +1,19 @@
+{
+  "lucro_liquido": [
+    {
+      "mes": "Janeiro",
+      "ano": 2024,
+      "lucro_liquido": "R$ 75000"
+    },
+    {
+      "mes": "Fevereiro",
+      "ano": 2024,
+      "lucro_liquido": "R$ 82500"
+    },
+    {
+      "mes": "Março",
+      "ano": 2024,
+      "lucro_liquido": "R$ 90000"
+    }
+  ]
+}
